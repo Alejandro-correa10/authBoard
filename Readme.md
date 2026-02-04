@@ -151,11 +151,12 @@ Demostrar capacidad para:
 
 ---
 
-## 👤 Autor
+## Autor ING. ALEJANDRO CORREA POLO
 
 Proyecto desarrollado como parte de un **portafolio profesional**.
 
 ---
 
 Si estás revisando este repositorio como reclutador o cliente: este proyecto representa una base sólida para sistemas reales.
+
 

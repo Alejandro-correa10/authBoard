@@ -36,7 +36,7 @@ front  →  api  →  database
 ## 📂 Estructura del proyecto
 
 ```
-/api
+/authBoard
   ├── db.php
   ├── helpers.php
   ├── register.php
@@ -158,5 +158,6 @@ Proyecto desarrollado como parte de un **portafolio profesional**.
 ---
 
 Si estás revisando este repositorio como reclutador o cliente: este proyecto representa una base sólida para sistemas reales.
+
 
 
